@@ -1,0 +1,65 @@
+name: Post payloads to Slack
+
+on:
+  push:
+    paths:
+      - 'payloads/**/*.json'
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Post new payloads
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        run: |
+          if [ -z "$SLACK_BOT_TOKEN" ]; then
+            echo "::error::SLACK_BOT_TOKEN secret is not set"
+            exit 1
+          fi
+
+          if ! git rev-parse HEAD~1 >/dev/null 2>&1; then
+            echo "First commit — nothing to diff against"
+            exit 0
+          fi
+
+          FILES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD | grep '^payloads/.*\.json$' || true)
+
+          if [ -z "$FILES" ]; then
+            echo "No new payload files in this push"
+            exit 0
+          fi
+
+          echo "Processing payloads:"
+          echo "$FILES"
+
+          FAILED=0
+          while IFS= read -r FILE; do
+            [ -z "$FILE" ] && continue
+            [ ! -f "$FILE" ] && { echo "Skipping missing: $FILE"; continue; }
+
+            echo ""
+            echo "Posting $FILE"
+            RESP=$(curl -sS -X POST \
+              -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
+              -H 'Content-Type: application/json; charset=utf-8' \
+              --data @"$FILE" \
+              https://slack.com/api/chat.postMessage)
+
+            OK=$(echo "$RESP" | jq -r '.ok // false')
+            if [ "$OK" != "true" ]; then
+              echo "::error::Slack API failed for $FILE: $RESP"
+              FAILED=1
+              continue
+            fi
+
+            TS=$(echo "$RESP" | jq -r '.ts // ""')
+            CH=$(echo "$RESP" | jq -r '.channel // ""')
+            echo "Posted to channel $CH at ts $TS"
+          done <<< "$FILES"
+
+          exit $FAILED
