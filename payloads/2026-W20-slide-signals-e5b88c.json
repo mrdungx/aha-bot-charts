@@ -1,0 +1,18 @@
+{
+  "channel": "C04QBRY1P34",
+  "text": "New Slide Types signals — weekly",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*NEW SLIDE TYPES SIGNALS — 4–10 MAY 2026*\n\n*🔸 Adoption trend:*\n— Pin on Image: 212 users (+15% WoW, 4wk 📉 fading), 320 times. Rank: #9 of 9 interactive, #22 overall.\n— Idea Board: 322 users (+65% WoW, 4wk 📈 growing), 663 times. Rank: #7 of 9 interactive, #18 overall.\n— Ranking: 345 users (+12% WoW, 4wk 📉 fading), 568 times. Rank: #5 of 9 interactive, #16 overall.\n— By responses generated (interactive only): Pin on Image #8, Idea Board #6, Ranking #7\n\n*🔸 Repeat-use (slides per user, this week):*\n— Pin on Image: 1.5\n— Idea Board: 2.1\n— Ranking: 1.6\n— Range across non-quiz interactive slides: 1.5–2.7\n\n*🔸 Notable:*\n— Idea Board is the runaway: +65% WoW users, fourth straight week of growth (28 → 62 → 195 → 322). The only one of the three trending up.\n— Ranking jumped into the top-5 of interactive picks (#7 → #5) but sits at #7 on responses — presenters reach for it more than audiences engage with it.\n— Pin on Image sets the floor on repeat-use at 1.5 slides per user, below the 1.7–2.7 range across the existing six.\n\n<https://eu.mixpanel.com/project/2668743/view/3205947/app/boards#id=11071959|Mixpanel dashboard> · <https://bi.ahaslide.com/question/5600-how-many-events-each-slide-type-contributes-all-events|Metabase report>\n\n<@U05PK31G152> <@UF9HYBY2G>"
+      }
+    },
+    {
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/mrdungx/aha-bot-charts/main/charts/2026-W20-slide-signals-e5b88c.png",
+      "alt_text": "Weekly unique users — new slide types vs interactive-slide range"
+    }
+  ]
+}
