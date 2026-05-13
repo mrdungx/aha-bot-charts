@@ -1,0 +1,18 @@
+{
+  "channel": "C090AJTQEK1",
+  "text": "New Slide Types signals — weekly",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*NEW SLIDE TYPES SIGNALS — 4–10 MAY 2026*\n\n*🔸 Trajectory:*\n— Pin on Image: 212 users (WoW +15%), 320 times. 4wk: ➖ flat.\n— Idea Board: 322 users (WoW +65%), 663 times. 4wk: 📈 growing.\n— Ranking: 345 users (WoW +12%), 568 times. 4wk: 📉 fading.\n\n*🔸 Repeat-use (slides per user, this week):*\n— Pin on Image: 1.5\n— Idea Board: 2.1\n— Ranking: 1.6\n— Range across non-quiz interactive slides: 1.5–2.7\n\n*🔸 Adoption rank (by unique users):*\n— Among non-quiz interactive slides: Pin on Image #8, Idea Board #6, Ranking #4\n— Among all slide types: Pin on Image #22, Idea Board #18, Ranking #16\n\n*🔸 Notable:*\n— Idea Board is the standout: +65% WoW users, climbed from #8 to #6 among non-quiz interactive (overtaking Brainstorm and Q&A) and from #22 to #18 across all slide types.\n— Ranking still down from its W17 peak (479 → 345 users) despite a small WoW bounce; 4-week trend remains negative.\n— Pin on Image has the lowest repeat-use of any non-quiz interactive slide (1.5 vs top of 2.7) — users try it but don’t come back for more.\n\n<https://eu.mixpanel.com/project/2668743/view/3205947/app/boards#id=11071959|Dashboard>"
+      }
+    },
+    {
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/mrdungx/aha-bot-charts/main/charts/2026-W20-slide-signals-4df257.png",
+      "alt_text": "Weekly unique users — new slide types vs interactive-slide range"
+    }
+  ]
+}
