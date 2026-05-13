@@ -1,0 +1,18 @@
+{
+  "channel": "C04QBRY1P34",
+  "text": "AI Weekly Signals — 4–10 MAY 2026",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*AI WEEKLY SIGNALS — 4–10 MAY 2026*\n\n*Adoption:*\n— :tada: AI-assisted hosted events: *25.0%* (WoW +1.8pp). 12-week climb: 18.1% → 25.0%. All-time high.\n— Prompts per user (Slides Agent): *3.4* (WoW +0.3). 4w trend: trending up.\n\n*Satisfaction:*\n— :warning: Slides Agent CSAT: 74.5% (WoW -4.0pp), n=55. -6.0pp vs 4w avg of 80.6%.\n— Slides Agent top comment: _\"not useful\"_ — said 4 times this week (of 7 comments).\n— Presentation Review CSAT: 50.0% (n=4 — too sparse to read).\n\n*Reliability:*\n— Slides Agent failure-refreshes: flat WoW, trending down over 4w — good direction.\n— Upload failure rate: down 0.8pp WoW, holding steady over 4w — good direction.\n\n*Notable:*\n— Twelve-week adoption climb finally crossed 25%, and it did so on a thinner audience — total hosted sessions dipped this week (likely Labour Day / Golden Week drag), yet the AI-assist rate still set a record. The presenters who did show up leant on AI more.\n— CSAT is the wobble to watch: -6.0pp vs the 4w average, dislikes up to 14, and \"not useful\" led free-text feedback (4 of 7). Small absolute volumes, but a consistent complaint worth a closer look.\n— Reliability is in good shape: refreshes nearly halved over 4 weeks (avg 18.2 → 11 this week), upload failures essentially flat at 3.6%.\n\n<https://bi.ahaslide.com/question/5198-weekly-ai-assisted-event-report-new-version|AI-assist report> · <https://eu.mixpanel.com/s/H6n3U|Prompts> · <https://eu.mixpanel.com/s/1BbRUQ|Slides Agent CSAT> · <https://eu.mixpanel.com/s/4fI1Hx|Presentation Review CSAT> · <https://eu.mixpanel.com/s/2Xlmri|Refresh> · <https://eu.mixpanel.com/s/32Y6JI|Uploads>\n\n<@UF9HYBY2G> <!subteam^S07MYJK1D8U|team-product-future>"
+      }
+    },
+    {
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/mrdungx/aha-bot-charts/main/charts/2026-W20-ai-signals-370df2.png",
+      "alt_text": "AI-assist rate weekly trend"
+    }
+  ]
+}
