@@ -2,13 +2,13 @@ name: Fetch Metabase question data
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # daily at 01:00 UTC (1h before the Friday weekly routine fires)
+    - cron: '0 1 * * *'   # daily at 01:00 UTC (well before any weekly routine fires)
   workflow_dispatch:
     inputs:
       question_id:
-        description: 'Metabase question ID'
+        description: 'Metabase question ID(s) — single ID or comma-separated list'
         required: false
-        default: '5600'
+        default: '5600,5198'
 
 jobs:
   fetch:
@@ -18,11 +18,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch and transform Metabase question
+      - name: Fetch and transform Metabase question(s)
         env:
           METABASE_API_KEY: ${{ secrets.METABASE_API_KEY }}
           METABASE_URL: https://bi.ahaslide.com
-          QUESTION_ID: ${{ github.event.inputs.question_id || '5600' }}
+          QUESTION_IDS: ${{ github.event.inputs.question_id || '5600,5198' }}
         run: |
           set -e
           if [ -z "$METABASE_API_KEY" ]; then
@@ -39,55 +39,72 @@ jobs:
 
           api_key = os.environ["METABASE_API_KEY"]
           base = os.environ["METABASE_URL"].rstrip("/")
-          qid = os.environ["QUESTION_ID"]
+          qids = [s.strip() for s in os.environ["QUESTION_IDS"].split(",") if s.strip()]
 
-          req = urllib.request.Request(
-              f"{base}/api/card/{qid}/query",
-              method="POST",
-              data=b"{}",
-              headers={"x-api-key": api_key, "Content-Type": "application/json"},
-          )
-
-          try:
-              with urllib.request.urlopen(req, timeout=90) as resp:
-                  raw = json.load(resp)
-          except urllib.error.HTTPError as e:
-              body = e.read().decode("utf-8", errors="replace")[:500]
-              print(f"::error::Metabase HTTP {e.code}: {body}")
-              sys.exit(1)
-          except Exception as e:
-              print(f"::error::Metabase request failed: {e}")
+          if not qids:
+              print("::error::No question IDs provided")
               sys.exit(1)
 
-          status = raw.get("status")
-          if status != "completed":
-              print(f"::warning::Metabase status: {status}")
+          errors = []
 
-          data = raw.get("data", {})
-          cols_raw = data.get("cols", [])
-          cols = [c.get("name") or c.get("display_name") or f"col_{i}" for i, c in enumerate(cols_raw)]
-          rows_raw = data.get("rows", [])
-          rows = [dict(zip(cols, r)) for r in rows_raw]
+          for qid in qids:
+              print(f"::group::Fetching question {qid}")
+              req = urllib.request.Request(
+                  f"{base}/api/card/{qid}/query",
+                  method="POST",
+                  data=b"{}",
+                  headers={"x-api-key": api_key, "Content-Type": "application/json"},
+              )
 
-          out = {
-              "fetched_at": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-              "question_id": int(qid),
-              "question_url": f"{base}/question/{qid}",
-              "columns": cols,
-              "row_count": len(rows),
-              "rows": rows,
-          }
+              try:
+                  with urllib.request.urlopen(req, timeout=90) as resp:
+                      raw = json.load(resp)
+              except urllib.error.HTTPError as e:
+                  body = e.read().decode("utf-8", errors="replace")[:500]
+                  print(f"::error::Metabase HTTP {e.code} for {qid}: {body}")
+                  errors.append(qid)
+                  print("::endgroup::")
+                  continue
+              except Exception as e:
+                  print(f"::error::Metabase request failed for {qid}: {e}")
+                  errors.append(qid)
+                  print("::endgroup::")
+                  continue
 
-          path = f"data/metabase/{qid}.json"
-          with open(path, "w") as f:
-              json.dump(out, f, indent=2, default=str)
+              status = raw.get("status")
+              if status != "completed":
+                  print(f"::warning::Metabase status for {qid}: {status}")
 
-          print(f"Wrote {len(rows)} rows to {path}")
+              data = raw.get("data", {})
+              cols_raw = data.get("cols", [])
+              cols = [c.get("name") or c.get("display_name") or f"col_{i}" for i, c in enumerate(cols_raw)]
+              rows_raw = data.get("rows", [])
+              rows = [dict(zip(cols, r)) for r in rows_raw]
+
+              out = {
+                  "fetched_at": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+                  "question_id": int(qid),
+                  "question_url": f"{base}/question/{qid}",
+                  "columns": cols,
+                  "row_count": len(rows),
+                  "rows": rows,
+              }
+
+              path = f"data/metabase/{qid}.json"
+              with open(path, "w") as f:
+                  json.dump(out, f, indent=2, default=str)
+
+              print(f"Wrote {len(rows)} rows to {path}")
+              print("::endgroup::")
+
+          if errors:
+              print(f"::error::Failed to fetch: {','.join(errors)}")
+              sys.exit(1)
           PYEOF
 
       - name: Commit and push if changed
         env:
-          QUESTION_ID: ${{ github.event.inputs.question_id || '5600' }}
+          QUESTION_IDS: ${{ github.event.inputs.question_id || '5600,5198' }}
         run: |
           git config user.name 'aha-bot'
           git config user.email 'aha-bot@users.noreply.github.com'
@@ -95,6 +112,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "data: refresh Metabase question $QUESTION_ID"
+            git commit -m "data: refresh Metabase questions ${QUESTION_IDS}"
             git push
           fi
