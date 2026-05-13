@@ -1,0 +1,18 @@
+{
+  "channel": "C090AJTQEK1",
+  "text": "AI Weekly Signals \u2014 4\u201310 MAY 2026",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*AI WEEKLY SIGNALS \u2014 4\u201310 MAY 2026*\n\n*Adoption:*\n\u2014 :tada: AI-assisted hosted events: *25.0%* (WoW +1.8pp). 12-week climb: 18.1% \u2192 25.0%. All-time high.\n\u2014 Prompts per user (Slides Agent): *3.4* (WoW +0.3). 4w trend: trending up.\n\n*Satisfaction:*\n\u2014 :warning: Slides Agent CSAT: 74.5% (WoW -4.0pp), n=55. -6.0pp vs 4w avg of 80.6%.\n\u2014 Slides Agent top comment: _\"not useful\"_ \u2014 said 4 times this week (of 7 comments).\n\u2014 Presentation Review CSAT: 50.0% (n=4 \u2014 too sparse to read).\n\n*Reliability:*\n\u2014 Slides Agent failure-refreshes: flat WoW, trending down over 4w \u2014 good direction.\n\u2014 Upload failure rate: down 0.8pp WoW, holding steady over 4w \u2014 good direction.\n\n*Notable:*\n\u2014 AI-assist rate hits an all-time high at *25.0%* \u2014 the 12-week climb from 18.1% has resumed after April's plateau, and adoption depth follows: prompts-per-user up to *3.4*, trending up against the 4w mean.\n\u2014 Slides Agent CSAT slipped to *74.5%* on n=55 \u2014 6pp below the 4w average, dislikes ticked up to 14. Top free-text comment was _\"not useful\"_ (4 of 7) \u2014 a small but consistent signal worth poking at.\n\u2014 Reliability is the one piece of good news everywhere: failure-refreshes flat and well below 4w trend, upload failure rate steady at ~3.6%. Nothing exciting to report there, which is the point.\n\u2014 Presentation Review CSAT is essentially unreadable this week (n=4); the recent run of weekly samples has been thin enough that we should treat the number as noise until volume recovers.\n\n<https://bi.ahaslide.com/question/5198-weekly-ai-assisted-event-report-new-version|AI-assist report> \u00b7 <https://eu.mixpanel.com/s/H6n3U|Prompts> \u00b7 <https://eu.mixpanel.com/s/1BbRUQ|Slides Agent CSAT> \u00b7 <https://eu.mixpanel.com/s/4fI1Hx|Presentation Review CSAT> \u00b7 <https://eu.mixpanel.com/s/2Xlmri|Refresh> \u00b7 <https://eu.mixpanel.com/s/32Y6JI|Uploads>"
+      }
+    },
+    {
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/mrdungx/aha-bot-charts/main/charts/2026-W20-ai-signals-568b0e.png",
+      "alt_text": "AI-assist rate weekly trend"
+    }
+  ]
+}
