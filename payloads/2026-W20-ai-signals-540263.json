@@ -1,0 +1,18 @@
+{
+  "channel": "C090AJTQEK1",
+  "text": "AI Weekly Signals — 4–10 May 2026",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*AI WEEKLY SIGNALS — 4–10 MAY 2026*\n\n*Adoption:*\n— :tada: AI-assisted hosted events: *25.0%* (WoW +1.7pp). 12-week climb: 18.1% → 25.0%. All-time high.\n— Prompts per user (Slides Agent): *3.4* (WoW +0.3). 4w trend: trending up.\n\n*Satisfaction:*\n— :warning: Slides Agent CSAT: 74.5% (WoW -4.0pp), n=55. -6.0pp vs 4w avg of 80.6%.\n— Slides Agent top comment: _\"not useful\"_ — said 4 times this week (of 7 comments).\n— Presentation Review CSAT: 50.0% (n=4 — too sparse to read).\n— Presentation Review pain points (last 90d, 20 comments): false-positives dominate — many users report flagged \"issues\" that aren't issues. A vocal minority want the old Review back: _\"Bring back the old Review. This new version is terrible. I have 10 things highlighted and none are issues.\"_ Remainder split between feature requests and formatting bugs.\n\n*Reliability:*\n— Slides Agent failure-refreshes: flat WoW, trending down over 4w — good direction.\n— Upload failure rate: down 0.8pp WoW, holding steady over 4w — good direction.\n\n*Notable:*\n— AI-assist crossed 25% for the first time — a 12-week climb from 18.1%. Adoption ticking up even as total hosted volume softened (~19.7k sessions vs ~25k earlier in April).\n— Slides Agent CSAT slipped to 74.5%, -6.0pp vs the 4w average. Sample size (n=55) is modest but the drop is real, and the top free-text comment was, fittingly, _\"not useful\"_.\n— PR CSAT is unreadable at n=4. The 90-day complaint pool tells the real story: 20 substantive comments, dominated by false-positives and nostalgia for the old Review.\n\n<https://bi.ahaslide.com/question/5198-weekly-ai-assisted-event-report-new-version|AI-assist report> · <https://eu.mixpanel.com/s/H6n3U|Prompts> · <https://eu.mixpanel.com/s/1BbRUQ|Slides Agent CSAT> · <https://eu.mixpanel.com/s/4fI1Hx|Presentation Review CSAT> · <https://eu.mixpanel.com/s/1t4KQT|PR dissatisfaction feedback> · <https://eu.mixpanel.com/s/2Xlmri|Refresh> · <https://eu.mixpanel.com/s/32Y6JI|Uploads>\n\n<@UF9HYBY2G> <!subteam^S07MYJK1D8U|team-product-future>"
+      }
+    },
+    {
+      "type": "image",
+      "image_url": "https://raw.githubusercontent.com/mrdungx/aha-bot-charts/main/charts/2026-W20-ai-signals-540263.png",
+      "alt_text": "AI-assist rate weekly trend"
+    }
+  ]
+}
