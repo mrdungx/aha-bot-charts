@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-14T01:38:35Z",
+  "fetched_at": "2026-05-15T01:37:00Z",
   "question_id": 5600,
   "question_url": "https://bi.ahaslide.com/question/5600",
   "columns": [
@@ -32,7 +32,7 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-01-27T00:00:00+07:00",
-      "event_count": 11643
+      "event_count": 11642
     },
     {
       "slide_type": "Any interactive slides",
@@ -42,7 +42,7 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-02-10T00:00:00+07:00",
-      "event_count": 14164
+      "event_count": 14163
     },
     {
       "slide_type": "Any interactive slides",
@@ -77,17 +77,17 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-03-31T00:00:00+07:00",
-      "event_count": 13425
+      "event_count": 13424
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-04-07T00:00:00+07:00",
-      "event_count": 14361
+      "event_count": 14360
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-04-14T00:00:00+07:00",
-      "event_count": 12367
+      "event_count": 12366
     },
     {
       "slide_type": "Any interactive slides",
@@ -97,12 +97,12 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-04-28T00:00:00+07:00",
-      "event_count": 11192
+      "event_count": 11191
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-05-05T00:00:00+07:00",
-      "event_count": 12742
+      "event_count": 12741
     },
     {
       "slide_type": "Any interactive slides",
@@ -112,7 +112,7 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-05-19T00:00:00+07:00",
-      "event_count": 15640
+      "event_count": 15639
     },
     {
       "slide_type": "Any interactive slides",
@@ -137,7 +137,7 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-06-23T00:00:00+07:00",
-      "event_count": 13902
+      "event_count": 13900
     },
     {
       "slide_type": "Any interactive slides",
@@ -147,7 +147,7 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-07-07T00:00:00+07:00",
-      "event_count": 12098
+      "event_count": 12097
     },
     {
       "slide_type": "Any interactive slides",
@@ -192,17 +192,17 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-09-08T00:00:00+07:00",
-      "event_count": 17873
+      "event_count": 17872
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 18135
+      "event_count": 18133
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-09-22T00:00:00+07:00",
-      "event_count": 17736
+      "event_count": 17734
     },
     {
       "slide_type": "Any interactive slides",
@@ -217,47 +217,47 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-10-13T00:00:00+07:00",
-      "event_count": 18640
+      "event_count": 18638
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-10-20T00:00:00+07:00",
-      "event_count": 20253
+      "event_count": 20252
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-10-27T00:00:00+07:00",
-      "event_count": 24550
+      "event_count": 24548
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-11-03T00:00:00+07:00",
-      "event_count": 29036
+      "event_count": 29037
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-11-10T00:00:00+07:00",
-      "event_count": 31429
+      "event_count": 31428
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-11-17T00:00:00+07:00",
-      "event_count": 32161
+      "event_count": 32159
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-11-24T00:00:00+07:00",
-      "event_count": 29008
+      "event_count": 29005
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-12-01T00:00:00+07:00",
-      "event_count": 29663
+      "event_count": 29661
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-12-08T00:00:00+07:00",
-      "event_count": 29747
+      "event_count": 29746
     },
     {
       "slide_type": "Any interactive slides",
@@ -267,7 +267,7 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2025-12-22T00:00:00+07:00",
-      "event_count": 14259
+      "event_count": 14257
     },
     {
       "slide_type": "Any interactive slides",
@@ -277,97 +277,97 @@
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-01-05T00:00:00+07:00",
-      "event_count": 14543
+      "event_count": 14541
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-01-12T00:00:00+07:00",
-      "event_count": 20904
+      "event_count": 20903
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-01-19T00:00:00+07:00",
-      "event_count": 22495
+      "event_count": 22494
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-01-26T00:00:00+07:00",
-      "event_count": 24184
+      "event_count": 24181
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-02-02T00:00:00+07:00",
-      "event_count": 24312
+      "event_count": 24311
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-02-09T00:00:00+07:00",
-      "event_count": 23001
+      "event_count": 22997
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-02-16T00:00:00+07:00",
-      "event_count": 18939
+      "event_count": 18938
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-02-23T00:00:00+07:00",
-      "event_count": 23274
+      "event_count": 23272
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-03-02T00:00:00+07:00",
-      "event_count": 24426
+      "event_count": 24423
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-03-09T00:00:00+07:00",
-      "event_count": 29904
+      "event_count": 29900
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 27777
+      "event_count": 27770
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-03-23T00:00:00+07:00",
-      "event_count": 29959
+      "event_count": 29956
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-03-30T00:00:00+07:00",
-      "event_count": 23693
+      "event_count": 23689
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-04-06T00:00:00+07:00",
-      "event_count": 27868
+      "event_count": 27866
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 29084
+      "event_count": 29080
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-04-20T00:00:00+07:00",
-      "event_count": 28341
+      "event_count": 28325
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-04-27T00:00:00+07:00",
-      "event_count": 21408
+      "event_count": 21386
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 21562
+      "event_count": 21487
     },
     {
       "slide_type": "Any interactive slides",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 12751
+      "event_count": 16593
     },
     {
       "slide_type": "Brainstorm",
@@ -577,7 +577,7 @@
     {
       "slide_type": "Brainstorm",
       "event_week": "2025-10-13T00:00:00+07:00",
-      "event_count": 528
+      "event_count": 527
     },
     {
       "slide_type": "Brainstorm",
@@ -682,7 +682,7 @@
     {
       "slide_type": "Brainstorm",
       "event_week": "2026-03-09T00:00:00+07:00",
-      "event_count": 919
+      "event_count": 918
     },
     {
       "slide_type": "Brainstorm",
@@ -727,7 +727,7 @@
     {
       "slide_type": "Brainstorm",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 355
+      "event_count": 456
     },
     {
       "slide_type": "Categorise",
@@ -917,7 +917,7 @@
     {
       "slide_type": "Categorise",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 501
+      "event_count": 500
     },
     {
       "slide_type": "Categorise",
@@ -957,7 +957,7 @@
     {
       "slide_type": "Categorise",
       "event_week": "2025-11-10T00:00:00+07:00",
-      "event_count": 1105
+      "event_count": 1104
     },
     {
       "slide_type": "Categorise",
@@ -987,7 +987,7 @@
     {
       "slide_type": "Categorise",
       "event_week": "2025-12-22T00:00:00+07:00",
-      "event_count": 595
+      "event_count": 594
     },
     {
       "slide_type": "Categorise",
@@ -1047,7 +1047,7 @@
     {
       "slide_type": "Categorise",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 1165
+      "event_count": 1163
     },
     {
       "slide_type": "Categorise",
@@ -1067,7 +1067,7 @@
     {
       "slide_type": "Categorise",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 1229
+      "event_count": 1228
     },
     {
       "slide_type": "Categorise",
@@ -1082,12 +1082,12 @@
     {
       "slide_type": "Categorise",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 1105
+      "event_count": 1103
     },
     {
       "slide_type": "Categorise",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 594
+      "event_count": 783
     },
     {
       "slide_type": "Correct Order",
@@ -1277,7 +1277,7 @@
     {
       "slide_type": "Correct Order",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 6032
+      "event_count": 6031
     },
     {
       "slide_type": "Correct Order",
@@ -1337,7 +1337,7 @@
     {
       "slide_type": "Correct Order",
       "event_week": "2025-12-08T00:00:00+07:00",
-      "event_count": 1739
+      "event_count": 1738
     },
     {
       "slide_type": "Correct Order",
@@ -1347,7 +1347,7 @@
     {
       "slide_type": "Correct Order",
       "event_week": "2025-12-22T00:00:00+07:00",
-      "event_count": 881
+      "event_count": 880
     },
     {
       "slide_type": "Correct Order",
@@ -1407,7 +1407,7 @@
     {
       "slide_type": "Correct Order",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 1289
+      "event_count": 1287
     },
     {
       "slide_type": "Correct Order",
@@ -1432,7 +1432,7 @@
     {
       "slide_type": "Correct Order",
       "event_week": "2026-04-20T00:00:00+07:00",
-      "event_count": 1340
+      "event_count": 1339
     },
     {
       "slide_type": "Correct Order",
@@ -1442,12 +1442,12 @@
     {
       "slide_type": "Correct Order",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 1217
+      "event_count": 1216
     },
     {
       "slide_type": "Correct Order",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 698
+      "event_count": 903
     },
     {
       "slide_type": "Idea Board",
@@ -1477,12 +1477,12 @@
     {
       "slide_type": "Idea Board",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 415
+      "event_count": 414
     },
     {
       "slide_type": "Idea Board",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 262
+      "event_count": 337
     },
     {
       "slide_type": "Match Pairs",
@@ -1517,7 +1517,7 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2025-02-10T00:00:00+07:00",
-      "event_count": 5406
+      "event_count": 5405
     },
     {
       "slide_type": "Match Pairs",
@@ -1657,7 +1657,7 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2025-08-25T00:00:00+07:00",
-      "event_count": 5951
+      "event_count": 5950
     },
     {
       "slide_type": "Match Pairs",
@@ -1672,7 +1672,7 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 6505
+      "event_count": 6504
     },
     {
       "slide_type": "Match Pairs",
@@ -1742,7 +1742,7 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2025-12-22T00:00:00+07:00",
-      "event_count": 1162
+      "event_count": 1161
     },
     {
       "slide_type": "Match Pairs",
@@ -1787,7 +1787,7 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-02-23T00:00:00+07:00",
-      "event_count": 1933
+      "event_count": 1932
     },
     {
       "slide_type": "Match Pairs",
@@ -1802,12 +1802,12 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 2001
+      "event_count": 2000
     },
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-03-23T00:00:00+07:00",
-      "event_count": 2326
+      "event_count": 2325
     },
     {
       "slide_type": "Match Pairs",
@@ -1822,7 +1822,7 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 2089
+      "event_count": 2088
     },
     {
       "slide_type": "Match Pairs",
@@ -1832,17 +1832,17 @@
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-04-27T00:00:00+07:00",
-      "event_count": 1590
+      "event_count": 1589
     },
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 1802
+      "event_count": 1799
     },
     {
       "slide_type": "Match Pairs",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 1089
+      "event_count": 1398
     },
     {
       "slide_type": "Open Ended",
@@ -2062,7 +2062,7 @@
     {
       "slide_type": "Open Ended",
       "event_week": "2025-10-27T00:00:00+07:00",
-      "event_count": 4392
+      "event_count": 4391
     },
     {
       "slide_type": "Open Ended",
@@ -2122,7 +2122,7 @@
     {
       "slide_type": "Open Ended",
       "event_week": "2026-01-19T00:00:00+07:00",
-      "event_count": 2607
+      "event_count": 2606
     },
     {
       "slide_type": "Open Ended",
@@ -2137,7 +2137,7 @@
     {
       "slide_type": "Open Ended",
       "event_week": "2026-02-09T00:00:00+07:00",
-      "event_count": 2690
+      "event_count": 2689
     },
     {
       "slide_type": "Open Ended",
@@ -2162,7 +2162,7 @@
     {
       "slide_type": "Open Ended",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 2762
+      "event_count": 2758
     },
     {
       "slide_type": "Open Ended",
@@ -2172,7 +2172,7 @@
     {
       "slide_type": "Open Ended",
       "event_week": "2026-03-30T00:00:00+07:00",
-      "event_count": 2318
+      "event_count": 2317
     },
     {
       "slide_type": "Open Ended",
@@ -2182,27 +2182,27 @@
     {
       "slide_type": "Open Ended",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 3211
+      "event_count": 3210
     },
     {
       "slide_type": "Open Ended",
       "event_week": "2026-04-20T00:00:00+07:00",
-      "event_count": 3084
+      "event_count": 3082
     },
     {
       "slide_type": "Open Ended",
       "event_week": "2026-04-27T00:00:00+07:00",
-      "event_count": 2512
+      "event_count": 2508
     },
     {
       "slide_type": "Open Ended",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 2451
+      "event_count": 2441
     },
     {
       "slide_type": "Open Ended",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 1636
+      "event_count": 2107
     },
     {
       "slide_type": "Pick Answer",
@@ -2227,7 +2227,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-01-27T00:00:00+07:00",
-      "event_count": 6485
+      "event_count": 6484
     },
     {
       "slide_type": "Pick Answer",
@@ -2237,7 +2237,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-02-10T00:00:00+07:00",
-      "event_count": 8204
+      "event_count": 8203
     },
     {
       "slide_type": "Pick Answer",
@@ -2292,7 +2292,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-04-28T00:00:00+07:00",
-      "event_count": 6810
+      "event_count": 6809
     },
     {
       "slide_type": "Pick Answer",
@@ -2332,7 +2332,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-06-23T00:00:00+07:00",
-      "event_count": 8334
+      "event_count": 8333
     },
     {
       "slide_type": "Pick Answer",
@@ -2392,7 +2392,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 10523
+      "event_count": 10522
     },
     {
       "slide_type": "Pick Answer",
@@ -2417,7 +2417,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-10-20T00:00:00+07:00",
-      "event_count": 11304
+      "event_count": 11303
     },
     {
       "slide_type": "Pick Answer",
@@ -2437,22 +2437,22 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-11-17T00:00:00+07:00",
-      "event_count": 17389
+      "event_count": 17388
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-11-24T00:00:00+07:00",
-      "event_count": 15784
+      "event_count": 15783
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-12-01T00:00:00+07:00",
-      "event_count": 16712
+      "event_count": 16711
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-12-08T00:00:00+07:00",
-      "event_count": 18385
+      "event_count": 18384
     },
     {
       "slide_type": "Pick Answer",
@@ -2462,7 +2462,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2025-12-22T00:00:00+07:00",
-      "event_count": 8485
+      "event_count": 8484
     },
     {
       "slide_type": "Pick Answer",
@@ -2472,7 +2472,7 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-01-05T00:00:00+07:00",
-      "event_count": 7904
+      "event_count": 7903
     },
     {
       "slide_type": "Pick Answer",
@@ -2497,17 +2497,17 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-02-09T00:00:00+07:00",
-      "event_count": 12804
+      "event_count": 12802
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-02-16T00:00:00+07:00",
-      "event_count": 10789
+      "event_count": 10787
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-02-23T00:00:00+07:00",
-      "event_count": 12887
+      "event_count": 12886
     },
     {
       "slide_type": "Pick Answer",
@@ -2522,12 +2522,12 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 15827
+      "event_count": 15825
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-03-23T00:00:00+07:00",
-      "event_count": 17149
+      "event_count": 17146
     },
     {
       "slide_type": "Pick Answer",
@@ -2542,27 +2542,27 @@
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 16242
+      "event_count": 16240
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-04-20T00:00:00+07:00",
-      "event_count": 15894
+      "event_count": 15886
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-04-27T00:00:00+07:00",
-      "event_count": 12002
+      "event_count": 11999
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 12125
+      "event_count": 12106
     },
     {
       "slide_type": "Pick Answer",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 6511
+      "event_count": 8503
     },
     {
       "slide_type": "Pin on Image",
@@ -2612,12 +2612,12 @@
     {
       "slide_type": "Pin on Image",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 221
+      "event_count": 219
     },
     {
       "slide_type": "Pin on Image",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 174
+      "event_count": 228
     },
     {
       "slide_type": "Poll",
@@ -2692,7 +2692,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-04-07T00:00:00+07:00",
-      "event_count": 3285
+      "event_count": 3284
     },
     {
       "slide_type": "Poll",
@@ -2712,7 +2712,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-05-05T00:00:00+07:00",
-      "event_count": 2955
+      "event_count": 2954
     },
     {
       "slide_type": "Poll",
@@ -2722,7 +2722,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-05-19T00:00:00+07:00",
-      "event_count": 3420
+      "event_count": 3419
     },
     {
       "slide_type": "Poll",
@@ -2747,7 +2747,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-06-23T00:00:00+07:00",
-      "event_count": 3174
+      "event_count": 3173
     },
     {
       "slide_type": "Poll",
@@ -2807,7 +2807,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 3883
+      "event_count": 3882
     },
     {
       "slide_type": "Poll",
@@ -2842,7 +2842,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-11-03T00:00:00+07:00",
-      "event_count": 6611
+      "event_count": 6612
     },
     {
       "slide_type": "Poll",
@@ -2877,7 +2877,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2025-12-22T00:00:00+07:00",
-      "event_count": 3275
+      "event_count": 3274
     },
     {
       "slide_type": "Poll",
@@ -2892,7 +2892,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-01-12T00:00:00+07:00",
-      "event_count": 5078
+      "event_count": 5077
     },
     {
       "slide_type": "Poll",
@@ -2902,7 +2902,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-01-26T00:00:00+07:00",
-      "event_count": 6074
+      "event_count": 6073
     },
     {
       "slide_type": "Poll",
@@ -2912,12 +2912,12 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-02-09T00:00:00+07:00",
-      "event_count": 5316
+      "event_count": 5315
     },
     {
       "slide_type": "Poll",
       "event_week": "2026-02-16T00:00:00+07:00",
-      "event_count": 4383
+      "event_count": 4384
     },
     {
       "slide_type": "Poll",
@@ -2927,7 +2927,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-03-02T00:00:00+07:00",
-      "event_count": 5794
+      "event_count": 5793
     },
     {
       "slide_type": "Poll",
@@ -2937,7 +2937,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 6323
+      "event_count": 6321
     },
     {
       "slide_type": "Poll",
@@ -2947,7 +2947,7 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-03-30T00:00:00+07:00",
-      "event_count": 5395
+      "event_count": 5394
     },
     {
       "slide_type": "Poll",
@@ -2957,27 +2957,27 @@
     {
       "slide_type": "Poll",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 6754
+      "event_count": 6753
     },
     {
       "slide_type": "Poll",
       "event_week": "2026-04-20T00:00:00+07:00",
-      "event_count": 6636
+      "event_count": 6633
     },
     {
       "slide_type": "Poll",
       "event_week": "2026-04-27T00:00:00+07:00",
-      "event_count": 4895
+      "event_count": 4889
     },
     {
       "slide_type": "Poll",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 4903
+      "event_count": 4882
     },
     {
       "slide_type": "Poll",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 3147
+      "event_count": 4090
     },
     {
       "slide_type": "Ranking",
@@ -3027,12 +3027,12 @@
     {
       "slide_type": "Ranking",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 343
+      "event_count": 342
     },
     {
       "slide_type": "Ranking",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 217
+      "event_count": 293
     },
     {
       "slide_type": "Scales",
@@ -3267,7 +3267,7 @@
     {
       "slide_type": "Scales",
       "event_week": "2025-11-17T00:00:00+07:00",
-      "event_count": 2967
+      "event_count": 2966
     },
     {
       "slide_type": "Scales",
@@ -3352,7 +3352,7 @@
     {
       "slide_type": "Scales",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 1197
+      "event_count": 1194
     },
     {
       "slide_type": "Scales",
@@ -3387,12 +3387,12 @@
     {
       "slide_type": "Scales",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 882
+      "event_count": 875
     },
     {
       "slide_type": "Scales",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 632
+      "event_count": 822
     },
     {
       "slide_type": "Short Answer",
@@ -3427,7 +3427,7 @@
     {
       "slide_type": "Short Answer",
       "event_week": "2025-02-10T00:00:00+07:00",
-      "event_count": 966
+      "event_count": 965
     },
     {
       "slide_type": "Short Answer",
@@ -3582,7 +3582,7 @@
     {
       "slide_type": "Short Answer",
       "event_week": "2025-09-15T00:00:00+07:00",
-      "event_count": 1115
+      "event_count": 1114
     },
     {
       "slide_type": "Short Answer",
@@ -3642,7 +3642,7 @@
     {
       "slide_type": "Short Answer",
       "event_week": "2025-12-08T00:00:00+07:00",
-      "event_count": 2634
+      "event_count": 2633
     },
     {
       "slide_type": "Short Answer",
@@ -3747,12 +3747,12 @@
     {
       "slide_type": "Short Answer",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 1492
+      "event_count": 1488
     },
     {
       "slide_type": "Short Answer",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 865
+      "event_count": 1127
     },
     {
       "slide_type": "Word Cloud",
@@ -3822,7 +3822,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-03-31T00:00:00+07:00",
-      "event_count": 3383
+      "event_count": 3382
     },
     {
       "slide_type": "Word Cloud",
@@ -3882,7 +3882,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-06-23T00:00:00+07:00",
-      "event_count": 2977
+      "event_count": 2976
     },
     {
       "slide_type": "Word Cloud",
@@ -3937,7 +3937,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-09-08T00:00:00+07:00",
-      "event_count": 4139
+      "event_count": 4138
     },
     {
       "slide_type": "Word Cloud",
@@ -3947,7 +3947,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-09-22T00:00:00+07:00",
-      "event_count": 4129
+      "event_count": 4127
     },
     {
       "slide_type": "Word Cloud",
@@ -3962,7 +3962,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-10-13T00:00:00+07:00",
-      "event_count": 4640
+      "event_count": 4639
     },
     {
       "slide_type": "Word Cloud",
@@ -3972,7 +3972,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-10-27T00:00:00+07:00",
-      "event_count": 5947
+      "event_count": 5946
     },
     {
       "slide_type": "Word Cloud",
@@ -3992,7 +3992,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2025-11-24T00:00:00+07:00",
-      "event_count": 6926
+      "event_count": 6925
     },
     {
       "slide_type": "Word Cloud",
@@ -4022,7 +4022,7 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-01-05T00:00:00+07:00",
-      "event_count": 3229
+      "event_count": 3228
     },
     {
       "slide_type": "Word Cloud",
@@ -4037,12 +4037,12 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-01-26T00:00:00+07:00",
-      "event_count": 5510
+      "event_count": 5508
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-02-02T00:00:00+07:00",
-      "event_count": 5509
+      "event_count": 5508
     },
     {
       "slide_type": "Word Cloud",
@@ -4062,17 +4062,17 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-03-02T00:00:00+07:00",
-      "event_count": 5641
+      "event_count": 5639
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-03-09T00:00:00+07:00",
-      "event_count": 6750
+      "event_count": 6748
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-03-16T00:00:00+07:00",
-      "event_count": 5947
+      "event_count": 5943
     },
     {
       "slide_type": "Word Cloud",
@@ -4082,37 +4082,37 @@
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-03-30T00:00:00+07:00",
-      "event_count": 4821
+      "event_count": 4819
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-04-06T00:00:00+07:00",
-      "event_count": 5749
+      "event_count": 5747
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-04-13T00:00:00+07:00",
-      "event_count": 6286
+      "event_count": 6284
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-04-20T00:00:00+07:00",
-      "event_count": 5888
+      "event_count": 5886
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-04-27T00:00:00+07:00",
-      "event_count": 4489
+      "event_count": 4476
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-05-04T00:00:00+07:00",
-      "event_count": 4441
+      "event_count": 4424
     },
     {
       "slide_type": "Word Cloud",
       "event_week": "2026-05-11T00:00:00+07:00",
-      "event_count": 2854
+      "event_count": 3763
     }
   ]
 }
