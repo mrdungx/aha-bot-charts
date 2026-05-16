@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-15T01:37:01Z",
+  "fetched_at": "2026-05-16T01:35:18Z",
   "question_id": 5198,
   "question_url": "https://bi.ahaslide.com/question/5198",
   "columns": [
@@ -14,99 +14,99 @@
     {
       "week_start": "2026-05-11T00:00:00+07:00",
       "week_end": "2026-05-17T00:00:00+07:00",
-      "total_sessions": 16762,
-      "ai_assisted_sessions": 3883,
-      "ai_assisted_rate_pct": 23.17
+      "total_sessions": 19901,
+      "ai_assisted_sessions": 4641,
+      "ai_assisted_rate_pct": 23.32
     },
     {
       "week_start": "2026-05-04T00:00:00+07:00",
       "week_end": "2026-05-10T00:00:00+07:00",
-      "total_sessions": 19625,
-      "ai_assisted_sessions": 4903,
-      "ai_assisted_rate_pct": 24.98
+      "total_sessions": 19588,
+      "ai_assisted_sessions": 4897,
+      "ai_assisted_rate_pct": 25.0
     },
     {
       "week_start": "2026-04-27T00:00:00+07:00",
       "week_end": "2026-05-03T00:00:00+07:00",
-      "total_sessions": 19316,
-      "ai_assisted_sessions": 4489,
+      "total_sessions": 19293,
+      "ai_assisted_sessions": 4483,
       "ai_assisted_rate_pct": 23.24
     },
     {
       "week_start": "2026-04-20T00:00:00+07:00",
       "week_end": "2026-04-26T00:00:00+07:00",
-      "total_sessions": 25121,
-      "ai_assisted_sessions": 5728,
+      "total_sessions": 25113,
+      "ai_assisted_sessions": 5725,
       "ai_assisted_rate_pct": 22.8
     },
     {
       "week_start": "2026-04-13T00:00:00+07:00",
       "week_end": "2026-04-19T00:00:00+07:00",
-      "total_sessions": 25494,
-      "ai_assisted_sessions": 5788,
-      "ai_assisted_rate_pct": 22.7
+      "total_sessions": 25487,
+      "ai_assisted_sessions": 5787,
+      "ai_assisted_rate_pct": 22.71
     },
     {
       "week_start": "2026-04-06T00:00:00+07:00",
       "week_end": "2026-04-12T00:00:00+07:00",
-      "total_sessions": 23511,
-      "ai_assisted_sessions": 5437,
-      "ai_assisted_rate_pct": 23.13
+      "total_sessions": 23509,
+      "ai_assisted_sessions": 5436,
+      "ai_assisted_rate_pct": 23.12
     },
     {
       "week_start": "2026-03-30T00:00:00+07:00",
       "week_end": "2026-04-05T00:00:00+07:00",
-      "total_sessions": 20076,
-      "ai_assisted_sessions": 4763,
-      "ai_assisted_rate_pct": 23.72
+      "total_sessions": 20072,
+      "ai_assisted_sessions": 4764,
+      "ai_assisted_rate_pct": 23.73
     },
     {
       "week_start": "2026-03-23T00:00:00+07:00",
       "week_end": "2026-03-29T00:00:00+07:00",
-      "total_sessions": 26553,
-      "ai_assisted_sessions": 5942,
+      "total_sessions": 26552,
+      "ai_assisted_sessions": 5943,
       "ai_assisted_rate_pct": 22.38
     },
     {
       "week_start": "2026-03-16T00:00:00+07:00",
       "week_end": "2026-03-22T00:00:00+07:00",
-      "total_sessions": 24704,
+      "total_sessions": 24701,
       "ai_assisted_sessions": 5118,
       "ai_assisted_rate_pct": 20.72
     },
     {
       "week_start": "2026-03-09T00:00:00+07:00",
       "week_end": "2026-03-15T00:00:00+07:00",
-      "total_sessions": 25726,
-      "ai_assisted_sessions": 5318,
+      "total_sessions": 25725,
+      "ai_assisted_sessions": 5317,
       "ai_assisted_rate_pct": 20.67
     },
     {
       "week_start": "2026-03-02T00:00:00+07:00",
       "week_end": "2026-03-08T00:00:00+07:00",
-      "total_sessions": 22879,
+      "total_sessions": 22877,
       "ai_assisted_sessions": 4511,
       "ai_assisted_rate_pct": 19.72
     },
     {
       "week_start": "2026-02-23T00:00:00+07:00",
       "week_end": "2026-03-01T00:00:00+07:00",
-      "total_sessions": 21900,
+      "total_sessions": 21898,
       "ai_assisted_sessions": 4210,
-      "ai_assisted_rate_pct": 19.22
+      "ai_assisted_rate_pct": 19.23
     },
     {
       "week_start": "2026-02-16T00:00:00+07:00",
       "week_end": "2026-02-22T00:00:00+07:00",
-      "total_sessions": 18406,
-      "ai_assisted_sessions": 3514,
-      "ai_assisted_rate_pct": 19.09
+      "total_sessions": 18409,
+      "ai_assisted_sessions": 3516,
+      "ai_assisted_rate_pct": 19.1
     },
     {
       "week_start": "2026-02-09T00:00:00+07:00",
       "week_end": "2026-02-15T00:00:00+07:00",
-      "total_sessions": 22080,
-      "ai_assisted_sessions": 3993,
+      "total_sessions": 22079,
+      "ai_assisted_sessions": 3991,
       "ai_assisted_rate_pct": 18.08
     }
   ]
